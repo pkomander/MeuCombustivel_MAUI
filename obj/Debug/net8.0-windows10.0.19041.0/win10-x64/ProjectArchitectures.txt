@@ -1,0 +1,1 @@
+C:\Dev_Projetos\MauiAppMeuCombustivel\MauiAppMeuCombustivel.csproj;x64

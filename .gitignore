@@ -1,0 +1,39 @@
+.vs/
+
+# Diretórios de build
+bin/
+obj/
+
+# Arquivos de configuração e caches do Visual Studio
+.vscode/
+.vs/
+*.userprefs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnide
+.idea/
+
+# Arquivos de log e temporários
+*.log
+*.tlog
+*.tmp
+*.log.dmp
+
+# Arquivos específicos do MAUI
+app.config
+appsettings.json
+launchSettings.json
+
+# Arquivos gerados pelo NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+
+# Arquivos de lock específicos de plataformas
+*.lock.json
+
+# Diretórios de plataformas
+.platforms/
